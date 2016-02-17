@@ -2,20 +2,8 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+This site was made by [Mimi Flynn][1] with [Wintersmith][2]. These are just a few of my favorite things. If your interested in checking out everything I've ever read on the internet check out [PulleyAndRope][3]
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
-
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://mimiflynn.com
+[2]: http://wintersmith.io
+[3]: http://pulleyandrope.com
