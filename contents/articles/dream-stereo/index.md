@@ -5,17 +5,17 @@ date: 2016-02-16 15:00
 template: article.jade
 ---
 
-A lot of time went into planning out my dream stereo, which is to say that I spent a good deal of time researching on the internet in the vortex of WhatHiFi?, Reddit, and Stereophile. I was able to source most of the components refurbished or open-box b-stock for just under 2k.
+A lot of time went into planning my dream stereo, which is to say that I spent a good deal of time researching in the vortex of WhatHiFi?, Reddit, and Stereophile. In the end, I was able to source most of the components refurbished or open-box b-stock for just under 2k.
 
 "2000 for a stereo?" you might be asking me in you mind? Well, I had just come into some money by winning the NYC apartment lottery (AKA getting a buy out on my place) and figured I would treat myself to the sound system I always dreamed of.
 
-Yes, it has been worth it. I've been listening to it every single day I'm at home for the past year and its proven to be one of my most favorite things.
+Yes, it has been worth it.For the past year, any day I'm at home, this stereo is quietly or not so quietly playing in the background. It has proven to be one of my most favorite things.
 
 <span class="more"></span>
 
 ## Marantz PM6005 Integrated Amplifier
 
-Marantz integrated amplifiers struck my a pretty. Yes, thats right, I saw them and though, oh, that looks so nice. Only then did search for reviews and discovered that their entry level audiophile gear was top rated for quality.
+At first, it was their appearance that struck me. Marantz integrated amplifiers are pretty. Yes, thats right, I saw them and thought, 'oh, that looks so nice'. The curves, the blue lights, the symmetrical design. Thankfully, my search through reviews revealed Marantz entry level audiophile gear was top rated for quality.
 
 Before I realized I could find a PM6005 refurbished for the same price, I had been looking to buy a new PM5005. The PM6005 won due to the digital input options that the PM5005 lack, which means I could use the PM6005 as a DAC for my AppleTV.
 
