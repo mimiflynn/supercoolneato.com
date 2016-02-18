@@ -3,7 +3,7 @@
     "url": "http://supercoolneato.com",
     "name": "SuperCoolNeato",
     "owner": "Mimi Flynn",
-    "description": "some of my favorite things"
+    "description": "a few of my favorite things"
   },
   "plugins": [
     "./plugins/paginator.coffee"
