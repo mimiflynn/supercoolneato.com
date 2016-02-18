@@ -18,5 +18,11 @@ After a while, I made a list of things I needed:
 - large enough to hold a laptop, cables, jacket, and climbing gym gear
 - quick access pockets
 - option to cinch down to keep it from flopping around when not full
+- made in the USA
 
-The waterproof requirement let me immediately to cycling bags.
+![ILE Default pack with black sailcloth and coyote trim - photo taken from their site](images/BlackXPAC_CoyoteWB.jpg)
+
+The waterproof requirement let me immediately to cycling bags and ran into the [Inside Line Equipment Default Backpack][2].
+
+[1]: http://ilequipment.com
+[2]: http://ilequipment.com/collections/all/products/default-backpack?variant=4193254021
