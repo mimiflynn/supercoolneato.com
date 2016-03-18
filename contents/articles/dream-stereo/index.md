@@ -5,6 +5,8 @@ date: 2016-02-16 15:00
 template: article.jade
 ---
 
+![Stereo](images/IMG_0401.jpg)
+
 A lot of time went into planning my dream stereo, which is to say that I spent a good deal of time researching in the vortex of WhatHiFi?, Reddit, and Stereophile. In the end, I was able to source most of the components refurbished or open-box b-stock for just under 2k.
 
 "2000 for a stereo?" you might be asking me in you mind? Well, I had just come into some money by winning the NYC apartment lottery (AKA getting a buy out on my place) and figured I would treat myself to the sound system I always dreamed of.

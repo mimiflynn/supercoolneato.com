@@ -5,6 +5,7 @@
     "owner": "Mimi Flynn",
     "description": "a few of my favorite things"
   },
+  "port" : 4000,
   "plugins": [
     "./plugins/paginator.coffee"
   ],
