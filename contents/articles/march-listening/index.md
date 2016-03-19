@@ -12,7 +12,7 @@ I've been in Austin part of this month and listening through my travel headphone
 The lightweight and noise isolating nature of the HD 380 Pros is why I favor them for long days working from coffee shops. As an added bonus that they come with a case that the 'phones fold flat into and fits nicely in my computer bag.
 
 My favorite feature of the D1 is its volume pot. Digital stepped up volume controls on computers tend to bother me. I want to control my volume in a more tangible way.
- 
+
 [Ane Brun - Songs 2003-2013](https://itun.es/us/3aNFP)
 
 [Jeff Buckly - Grace](https://itun.es/us/eRGGl)
