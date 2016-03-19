@@ -11,7 +11,7 @@ A lot of time went into planning my dream stereo, which is to say that I spent a
 
 "2000 for a stereo?" you might be asking me in you mind? Well, I had just come into some money by winning the NYC apartment lottery (AKA getting a buy out on my place) and figured I would treat myself to the sound system I always dreamed of.
 
-Yes, it has been worth it.For the past year, any day I'm at home, this stereo is quietly or not so quietly playing in the background. It has proven to be one of my most favorite things.
+Yes, it has been worth it. For the past year, any day I'm at home, this stereo is quietly or not so quietly playing in the background. It has proven to be one of my most favorite things.
 
 <span class="more"></span>
 
