@@ -10,6 +10,5 @@ Create with  [wintersmith](https://github.com/jnordberg/wintersmith).
 - headphone amplifiers
 - Seiko SKX divers
 - hammocks
-- top 5 all time favorite books ever
 - top 5 albums of my life
 
