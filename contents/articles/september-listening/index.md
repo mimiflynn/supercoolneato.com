@@ -2,6 +2,7 @@
 title: September Listening
 author: mimiflynn
 date: 2016-09-24
+template: article.jade
 ---
 
 Summer has been lingering in NYC, but I've attempted to bring on the fall with some blues.
