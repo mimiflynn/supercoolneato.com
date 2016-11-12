@@ -14,5 +14,4 @@ Create with  [wintersmith](https://github.com/jnordberg/wintersmith).
 - IEM cases
 - backpacks
 - pancakes
--
 
