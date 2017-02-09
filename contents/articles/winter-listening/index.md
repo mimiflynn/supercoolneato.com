@@ -13,4 +13,4 @@ In comparison to the FiiO X7, I have to say the Pioneer does not sound nearly as
 
 [Explosions in the Sky - The Wilderness](https://explosionsinthesky.merchline.com/)
 
-[Balmorhea - River Arms](https: //balmorhea.bandcamp.com/album/rivers-arms)
+[Balmorhea - River Arms](https://balmorhea.bandcamp.com/album/rivers-arms)

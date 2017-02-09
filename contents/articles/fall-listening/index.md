@@ -9,7 +9,7 @@ Fall has a quality that makes me look way back into the past, so I've been revis
 
 Some of it is a little, um, dark.
 
-[Trainspotting Soundtrack 1 and 2](https://en.wikipedia.org/wiki/Trainspotting_(soundtrack))
+[Trainspotting Soundtrack 1 and 2](http://www.imdb.com/title/tt0117951/soundtrack)
 
 [Lost Highway Soundtrack](http://pitchfork.com/news/68755-david-lynch-and-trent-reznors-lost-highway-soundtrack-reissued-on-vinyl/)
 
