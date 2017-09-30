@@ -5,7 +5,7 @@ date: 2017-09-25 18:36
 template: article.jade
 ---
 
-This past summer, I took a SkyWarn weather spotter class which sent me back into researching one of my favorite topics all over again. In Texas, where we often have extreme weather (my school growing up was destroyed in the Fort Worth tornado of 2000), I grew up learning about clouds and how to identify when conditions became dangerous.
+This past summer, I took a SkyWarn weather spotter class that spun me into researching one of my favorite topics all over again. In Texas, where my grade school was destroyed in the Fort Worth tornado of 2000, I grew up learning about clouds and how to identify when conditions became dangerous.
 
 ### Tim Samaras and the El Reno Tornado
 
@@ -15,7 +15,7 @@ This past summer, I took a SkyWarn weather spotter class which sent me back into
 
 [The Last Chase](http://ngm.nationalgeographic.com/2013/11/biggest-storm/draper-text)
 
-If you are interested in learning more about Tim Samaras the book [Tornado Hunter by Stefan Betchel and Tim Samaras](https://www.goodreads.com/book/show/2083243.Tornado_Hunter) cam out a few years before his death and covers the history of tornado research.
+If you are interested in learning more about Tim Samaras the book [Tornado Hunter by Stefan Betchel and Tim Samaras](https://www.goodreads.com/book/show/2083243.Tornado_Hunter) came out a few years before his death and covers the history of tornado research.
 
 ### General Fascinating Stories
 
