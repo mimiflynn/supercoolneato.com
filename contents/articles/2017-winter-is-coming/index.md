@@ -12,3 +12,6 @@ I'm back to scouring Internet Artchive for the best live shows I've not already 
 
 
 [Death Cab for Cutie Live at Street Scene - Best Buy Stage on 2005-07-30](https://archive.org/details/dcfc2005-07-30.at831.flac16) is a very good recording especially for being at an outdoor stage.
+
+
+[Andrew Bird Live at Mercy Lounge on 2007-04-16](https://archive.org/details/abird2007-04-16.cmc4.flacf) is another fantastic recording from yet another fantastic Andrew Bird show.
