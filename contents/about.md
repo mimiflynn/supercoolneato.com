@@ -10,6 +10,6 @@ None of the links on this site are affiliate links. Buy where you want. I just w
 
 If your interested in checking out everything I've ever read on the internet go to [PulleyAndRope][3].
 
-[1]: http://mimiflynn.com
+[1]: https://mimiflynn.com
 [2]: http://wintersmith.io
 [3]: http://pulleyandrope.com
