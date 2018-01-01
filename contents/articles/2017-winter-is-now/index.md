@@ -3,6 +3,7 @@ title: Winter is Now Now
 author: mimiflynn
 date: 2017-12-30 10:36
 template: article.jade
+summary: Music selections for winter 2017
 ---
 
 ITS FINALLY THE END OF THE YEAR CAN YOU EVEN BELIEVE

@@ -3,6 +3,7 @@ title: Weather!
 author: mimiflynn
 date: 2017-09-25 18:36
 template: article.jade
+summary: Interesting articles about the weather.
 ---
 
 This past summer, I took a SkyWarn weather spotter class that spun me into researching one of my favorite topics all over again. In Texas, where my grade school was destroyed in the Fort Worth tornado of 2000, I grew up learning about clouds and how to identify when conditions became dangerous.

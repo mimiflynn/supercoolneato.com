@@ -3,6 +3,7 @@ title: Spring Articles
 author: mimiflynn
 date: 2017-04-01 18:36
 template: article.jade
+summary: Articles from the spring commute
 ---
 
 I've not been listening so much to music lately. Listening to the city and reading has recently replaced music time. I don't believe this will be permanent, but instead of contributing recent albums I've been into, I offer you a few of my favorite articles.

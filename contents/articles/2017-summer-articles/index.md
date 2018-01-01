@@ -3,6 +3,7 @@ title: Articles from the Summer
 author: mimiflynn
 date: 2017-09-27 18:36
 template: article.jade
+summary: Articles from the summertime commute.
 ---
 
 Autumn is here, although its rather balmy out and the leaves have yet to change, there is talk of apple picking, Halloween costumes, and holiday plans. My recent subway commutes have allowed me to discover the following articles that I would read again.

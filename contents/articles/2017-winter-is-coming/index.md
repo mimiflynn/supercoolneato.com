@@ -3,6 +3,7 @@ title: Winter is Coming
 author: mimiflynn
 date: 2017-11-09 18:36
 template: article.jade
+summary: November music selctions
 ---
 
 I'm back to scouring Internet Artchive for the best live shows I've not already discovered:
