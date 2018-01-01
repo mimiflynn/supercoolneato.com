@@ -3,6 +3,7 @@ title: Into the Fall
 author: mimiflynn
 date: 2017-09-30 18:36
 template: article.jade
+summary: Music selections for fall 2017
 ---
 
 [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers)
