@@ -22,7 +22,7 @@ body {
     background-color: #f8f8f8;
     text-rendering: optimizeLegibility;
     animation: borderChange 80s infinite alternate;
-    border-top: 6px solid #45CEEF;
+    border-top: 6px solid #D14319;
 }
 
 .content-wrap {
