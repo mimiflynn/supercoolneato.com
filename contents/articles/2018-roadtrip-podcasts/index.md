@@ -10,7 +10,7 @@ summary: Perfect for a roadtrip
 
 [Love + Radio](http://loveandradio.org/category/episodes/) - My favorite episode is [Bride of the Sea](http://loveandradio.org/2015/08/bride-of-the-sea/)
 
-[Risky Business - weekly infosec news](https://risky.biz) - If infosec on its own doesn't interest you, perhaps this interview could pursuade you: [Bob Lord, CSO, Democratic National Committee](https://risky.biz/510_feature/)
+[Risky Business - weekly infosec news](https://risky.biz) - If infosec alone own doesn't interest you, perhaps this interview could pursuade you: [Bob Lord, CSO, Democratic National Committee](https://risky.biz/510_feature/)
 
 [Uncivil](http://www.gimletmedia.com/uncivil) - All are good, but if you want an example of what makes this podcast great: [The Deed](http://www.gimletmedia.com/uncivil/the-deed#episode-player)
 
