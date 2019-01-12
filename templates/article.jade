@@ -15,6 +15,8 @@ block prepend title
   | #{ page.title + ' - '}
 
 block header
+  p.date
+    span= moment.utc(page.date).format('DD. MMMM YYYY')
   h1= page.title
 
 block content
