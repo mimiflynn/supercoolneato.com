@@ -29,11 +29,6 @@ summary: Select recent favorite podcasts.
 [Risky Business](http://risky.biz/) - Weekly infosec news
 - [For Vlad](https://risky.biz/RB507/)
 
-[Slow Burn](https://slate.com/slow-burn) - Podcast about Watergate - I can't pick specific episodes... its all very good to listen to all the way through
-
 [Trump Inc](https://www.wnycstudios.org/shows/trumpinc) - Who's profiting from this administration and at what cost?
-
-[Uncivil](http://www.gimletmedia.com/uncivil) - An examination of the continuing impact of the divisions that let to the civil war
-- [The Deed](http://www.gimletmedia.com/uncivil/the-deed#episode-player)
 
 
