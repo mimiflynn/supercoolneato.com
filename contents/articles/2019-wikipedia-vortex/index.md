@@ -6,7 +6,7 @@ template: article.jade
 summary: Random Wikipedia gems
 ---
 
-The Internet is am amazing place.
+The Internet is an amazing place.
 
 [Robert Smalls](https://en.wikipedia.org/wiki/Robert_Smalls)
 
