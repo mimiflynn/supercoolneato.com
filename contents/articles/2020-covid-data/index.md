@@ -17,3 +17,5 @@ More
 - [Coronavirus survivors banned from joining the military](https://www.militarytimes.com/news/your-military/2020/05/06/coronavirus-survivors-banned-from-joining-the-military/)
 
 - [Accounting for event sequence: the 1|1|1 rule and the backdating exercise](https://medium.com/@oliverbeige/accounting-for-event-sequence-the-1-1-1-rule-and-the-backdating-exercise-ca116fe11d82)
+
+- [It's Time to Face Facts, America: Masks Work](https://www.wired.com/story/its-time-to-face-facts-america-masks-work/)
