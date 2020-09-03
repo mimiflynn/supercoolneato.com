@@ -14,6 +14,8 @@ Government Reports
 
 - [Unredacted Mueller Report from FIOA request](https://assets.documentcloud.org/documents/6953307/LEOPOLD-FOIA-Mueller-Report-unredacted-Roger-Stone.pdf)
 
+- [FBI Releases 2019 Statistics on Law Enforcement Officers Killed in the Line of Duty](https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-2019-statistics-on-law-enforcement-officers-killed-in-the-line-of-duty)
+
 Black Lives Matter - be a better ally through self education
 
 - [The Burning House: How federal housing programs failed Black America.](https://www.thenation.com/article/culture/keeanga-yamahtta-taylor-race-for-profit/)
@@ -31,6 +33,8 @@ Clarity through logic
 - [15 Logical Fallacies You Should Know Before Getting Into a Debate](https://thebestschools.org/magazine/15-logical-fallacies-know/)
 
 NYC
+
+- [Trump orders review to defund NYC, other ‘anarchist’ cities](https://nypost.com/2020/09/02/trump-orders-review-to-defund-nyc-other-anarchist-cities/)
 
 - [Affluence Killed New York, Not the Pandemic](https://www.theatlantic.com/ideas/archive/2020/08/who-new-york/615715/)
 

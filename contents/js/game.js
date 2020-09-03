@@ -149,6 +149,4 @@ var player = game.player;
 if (window.console) {
   console.log('    __  ____           _    ________                \n   /  |/  (_)___ ___  (_)  / ____/ /_  ______  ____ \n  / /|_/ / / __ ` __ \/ /  / /_  / / / / / __ \/ __  \\\n / /  / / / / / / / / /  / __/ / / /_/ / / / / / / /\n/_/  /_/_/_/ /_/ /_/_/  /_/   /_/\__,  /_/ /_/_/ /_/ \n                                /____/              \n\nHi! Feel free to connect at https://www.linkedin.com/in/mimiflynn/\n------------------------------------------------------------------------------\n');
   game.init();
-} else {
-  document.getElementsByTagName('h1')[0].innerHTML = 'Gotta use a different browser.';
 }
