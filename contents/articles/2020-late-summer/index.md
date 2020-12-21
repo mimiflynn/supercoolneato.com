@@ -12,7 +12,7 @@ Government Reports
 
 - [What’s New in the Unredacted Mueller Report?](https://www.lawfareblog.com/whats-new-unredacted-mueller-report)
 
-- [Unredacted Mueller Report from FIOA request](https://assets.documentcloud.org/documents/6953307/LEOPOLD-FOIA-Mueller-Report-unredacted-Roger-Stone.pdf)
+- [Unredacted Mueller Report from FOIA request](https://assets.documentcloud.org/documents/6953307/LEOPOLD-FOIA-Mueller-Report-unredacted-Roger-Stone.pdf)
 
 - [FBI Releases 2019 Statistics on Law Enforcement Officers Killed in the Line of Duty](https://www.fbi.gov/news/pressrel/press-releases/fbi-releases-2019-statistics-on-law-enforcement-officers-killed-in-the-line-of-duty)
 
